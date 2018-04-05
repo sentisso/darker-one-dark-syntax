@@ -1,1 +1,1 @@
-# darker-one-dark-syntaxx
+# darker-one-dark-syntax

@@ -1,12 +1,12 @@
 {
-  "name": "darker-one-dark-theme",
+  "name": "darker-one-dark-syntax",
   "version": "0.0.0",
   "description": "This is just edited one-dark theme, its just darker and colors are more colorful.",
   "keywords": [
     "dark",
     "syntax"
   ],
-  "repository": "https://github.com/SenTisso/darker-one-dark-theme",
+  "repository": "https://github.com/SenTisso/darker-one-dark-syntax",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   }
