@@ -20,6 +20,6 @@ apm install darker-one-dark-syntax
 
 **Via atom**
 
-Go to **Settings > Install** and search for `darker-one-dark-syntax`.
+Go to **Settings > Install** and next to the search bar select **themes**, than search for `darker-one-dark-syntax`. And install it obviously.
 
 After installing, go to **Settings > Themes > Syntax Themes** and select "darker-one-dark-syntax" from the drop-down menu.
